@@ -24,6 +24,30 @@ export class AppComponent {
       imageUrl: 'assets/biking.jpeg',
       username: 'biking1231',
       content: 'I did some biking today'
-    }
+    },
+    {
+      title: 'Snowy Mountain',
+      imageUrl: 'assets/mountain.jpeg',
+      username: 'mountainlover',
+      content: 'Here is a picture of snowy mountain'
+    },
+    {
+      title: 'Neat Tree',
+      imageUrl: 'assets/tree.jpeg',
+      username: 'nature',
+      content: 'I saw this neat tree today'
+    },
+    {
+      title: 'Mountain Biking',
+      imageUrl: 'assets/biking.jpeg',
+      username: 'biking1231',
+      content: 'I did some biking today'
+    },
+    {
+      title: 'Snowy Mountain',
+      imageUrl: 'assets/mountain.jpeg',
+      username: 'mountainlover',
+      content: 'Here is a picture of snowy mountain'
+    },
   ];
 }
